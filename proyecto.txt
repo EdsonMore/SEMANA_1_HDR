@@ -1,0 +1,3 @@
+Es una plataforma inteligente que monitorea arboles y recopila datos ambientales en tiempo real.
+Utiliza minoria de datos e inteligencia artificial para analizar patrones y predecir la supervivencia de los arboles.
+Además genera recomendaciones y mapas inteligentes para optimizar la reforestación urbana.
